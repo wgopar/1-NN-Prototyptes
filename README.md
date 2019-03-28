@@ -4,6 +4,6 @@ In a Nearest Neighbor classifier it is necessary to compare pair-wise distances 
 
 I experiment with randomly selecting subsets of each class to selecting subsets of data where it is most dense. See notebook for more details. 
 
-#### Data 
+## Data 
 
 Obtained from: https://pypi.org/project/python-mnist/
